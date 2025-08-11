@@ -23,6 +23,6 @@ en4 8c:04:ba:98:4c:cc
 en5 96:01:17:ac:67:43
 ```
 
-en0 – Typically the built-in Wi-Fi interface.
-en1, en2 – Could be additional physical interfaces like Ethernet (if using a USB-C adapter or dock), or older hardware like Bluetooth PAN.
-en3, en4, en5 – Often created by Thunderbolt docks, USB Ethernet adapters, or virtual interfaces from software like VPNs or virtualization tools (e.g., Parallels, Docker, VMware).
+* en0 – Typically the built-in Wi-Fi interface.
+* en1, en2 – Could be additional physical interfaces like Ethernet (if using a USB-C adapter or dock), or older hardware like Bluetooth PAN.
+* en3, en4, en5 – Often created by Thunderbolt docks, USB Ethernet adapters, or virtual interfaces from software like VPNs or virtualization tools (e.g., Parallels, Docker, VMware).
